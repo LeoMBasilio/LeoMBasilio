@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **C#, Python, JavaScript, PHP**
+  🦄 Linguagens: C#, Python, JavaScript, PHP
 </p>
 
 <!--<p align="left">
@@ -18,7 +18,7 @@
 </p>-->
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="lmb.basilio@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lmb.basilio@gmail.com" /></a>
 
   <a href="#" alt="LinkedIn">
