@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, mew nome é Leonardo! </h1>
+<h1> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é Leonardo! </h1>
 
 <p aling="left">
   Desenvolvedor apaixonado com mais de 3 anos de experiência, especializado em C# e Python. Proficiente em Machine Learning, banco de dados relacional, Docker e desenvolvimento de APIs. Comprometido em escrever código limpo e eficiente, busco soluções inovadoras para desafios complexos. Sempre aberto a colaborações e novos aprendizados no universo do desenvolvimento de software.
