@@ -1,10 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, mew nome é Leonardo!
+<h1> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, mew nome é Leonardo! </h1>
 
-<p align="left"> 
-  Sou leonardo trabalho com desenvolvimento de software no monento,
-  estou sempre buscando me aprimorar.
+<p aling="left">
+  Desenvolvedor apaixonado com mais de 3 anos de experiência, especializado em C# e Python. Proficiente em Machine Learning, banco de dados relacional, Docker e desenvolvimento de APIs. Comprometido em escrever código limpo e eficiente, busco soluções inovadoras para desafios complexos. Sempre aberto a colaborações e novos aprendizados no universo do desenvolvimento de software.
 </p>
 
 <p align="left">
@@ -33,7 +32,7 @@
 - 👨🏻‍💻 Cursando Graduação em Coding na Cruzeiro do Sul.
 - 📫 Como entrar em contato comigo: [lmb.basilio@gmail.com](mailto:lmb.basilio@gmail.com) ou [WhatsApp](https://api.whatsapp.com/send/?phone=974031553&text&type=phone_number&app_absent=0)
 
-<h3 align="left">Ferramentas e Linguagens:</h3>
+## 🚀 Minhas Skills
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -175,6 +174,8 @@
       height="40"
     />
   </a>
+
+  
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
@@ -184,4 +185,7 @@
     />
   </a>
 </p>
+<br><br/>
 
+## ⭐ GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
