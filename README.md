@@ -33,7 +33,7 @@
 - 👨🏻‍💻 Cursando Graduação em Coding na Cruzeiro do Sul.
 - 📫 Como entrar em contato comigo: [lmb.basilio@gmail.com](mailto:lmb.basilio@gmail.com) ou [WhatsApp](https://api.whatsapp.com/send/?phone=974031553&text&type=phone_number&app_absent=0)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Ferramentas e Linguagens:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
