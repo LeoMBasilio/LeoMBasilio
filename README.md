@@ -1,21 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, meu nome é Leonardo! </h1>
+<h1> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, my name is Leonardo! </h1>
 
 <p aling="left">
-  Desenvolvedor apaixonado com mais de 3 anos de experiência, especializado em C# e Python. Proficiente em Machine Learning, banco de dados relacional, Docker e desenvolvimento de APIs. Comprometido em escrever código limpo e eficiente, busco soluções inovadoras para desafios complexos. Sempre aberto a colaborações e novos aprendizados no universo do desenvolvimento de software.
+    Developer with over 3 years of experience, specialized in C# and Python. Proficient in Machine Learning, relational databases, Docker, and API development. Committed to writing clean and efficient code, I seek innovative solutions for complex challenges. Always open to collaborations and new learnings in the world of software development.
 </p>
 
 <br><br/>
 
-- 🔭 Atualmente, atuo como Desenvolvedor, com mais de 3 anos de sólida experiência na área de Tecnologia da Informação e com Desenvolvimento de Softwares.
-- 👦 Tenho 21 anos, curto desenhar 🎨, games 🎮 e tecnologia 💻.
-- 👪 Brasileiro, solterio.
-- 👨🏻‍🎓 Graduado em Técnico em Informática no IFRJ.
-- 👨🏻‍💻 Cursando Graduação em Coding na Cruzeiro do Sul.
-- 📫 Como entrar em contato comigo: [lmb.basilio@gmail.com](mailto:lmb.basilio@gmail.com) ou [WhatsApp](https://api.whatsapp.com/send/?phone=974031553&text&type=phone_number&app_absent=0)
+- 🔭 Currently, I work as a Developer, with over 3 years of solid experience in the field of Information Technology and Software Development.
+- 👦 I'm 21 years old, enjoy drawing 🎨, gaming 🎮, and technology 💻.
+- 👪 Brazilian, single.
+- 👨🏻‍🎓 Graduated in Computer Science Technician from IFRJ.
+- 👨🏻‍💻 Pursuing a Degree in Coding at Cruzeiro do Sul University.
+- 📫 How to reach me: [lmb.basilio@gmail.com](mailto:lmb.basilio@gmail.com) or [WhatsApp](https://api.whatsapp.com/send/?phone=974031553&text&type=phone_number&app_absent=0)
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
