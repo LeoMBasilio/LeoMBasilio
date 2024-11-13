@@ -3,13 +3,13 @@
 <h1> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, my name is Leonardo! </h1>
 
 <p aling="left">
-    Developer with over 3 years of experience, specialized in C# and Python. Proficient in Machine Learning, relational databases, Docker, and API development. Committed to writing clean and efficient code, I seek innovative solutions for complex challenges. Always open to collaborations and new learnings in the world of software development.
+    Developer with over 4 years of experience, specialized in C# and Python. Proficient in Machine Learning, relational databases, Docker, and API development. Committed to writing clean and efficient code, I seek innovative solutions for complex challenges. Always open to collaborations and new learnings in the world of software development.
 </p>
 
 <br><br/>
 
-- 🔭 Currently, I work as a Developer, with over 3 years of solid experience in the field of Information Technology and Software Development.
-- 👦 I'm 21 years old, enjoy drawing 🎨, gaming 🎮, and technology 💻.
+- 🔭 Currently, I work as a Developer, with over 4 years of solid experience in the field of Information Technology and Software Development.
+- 👦 I'm 22 years old, enjoy drawing 🎨, gaming 🎮, and technology 💻.
 - 👪 Brazilian, single.
 - 👨🏻‍🎓 Graduated in Computer Science Technician from IFRJ.
 - 👨🏻‍💻 Pursuing a Degree in Coding at Cruzeiro do Sul University.
