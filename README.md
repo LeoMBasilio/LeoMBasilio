@@ -16,6 +16,7 @@
 - 📫 How to reach me: [lmb.basilio@gmail.com](mailto:lmb.basilio@gmail.com) or [WhatsApp](https://api.whatsapp.com/send/?phone=974031553&text&type=phone_number&app_absent=0)
 
 ## 🚀 Skills
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leombasilio" alt="leombasilio" /></a> </p>
 <p align="left">
 <!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -171,4 +172,9 @@
 <br><br/>
 
 ## ⭐ GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoMBasilio&show_icons=true)
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leombasilio&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leombasilio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leombasilio&show_icons=true&theme=dracula&locale=en" alt="leombasilio" /></p>-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leombasilio&theme=dark" alt="leombasilio" /></p>
+
