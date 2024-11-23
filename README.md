@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97A6A0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Basilio;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 Currently, I work as a Developer, with over 4 years of solid experience in the field of Information Technology and Software Development.<br>👦 I'm 22 years old, drawing 🎨, gaming 🎮, and technology 💻.<br>👪 Brazilian, single.<br>👨🏻‍🎓 Graduated in Computer Science Technician from IFRJ.<br>👨🏻‍💻 Pursuing a Degree in Coding at Cruzeiro do Sul University.<br>📫 How to reach me: lmb.basilio@gmail.com
+🔭 Currently, I work as a Developer, with over 4 years of solid experience in the field of Information Technology and Software Development.<br>👦 I'm 22 years old, drawing 🎨, gaming 🎮 and technology 💻.<br>👪 Brazilian, single.<br>👨🏻‍🎓 Graduated in Computer Science Technician from IFRJ.<br>👨🏻‍💻 Pursuing a Degree in Coding at Cruzeiro do Sul University.<br>📫 How to reach me: lmb.basilio@gmail.com
 
 
 # 💻 Tech Stack:
